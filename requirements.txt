@@ -2,3 +2,11 @@ uvicorn
 fastapi
 sqlalchemy
 pydantic
+pillow
+streamlit
+torch
+torchvision
+langchain
+langchain-core
+langchain-community
+langchain-openai
