@@ -1,5 +1,32 @@
 # Full Stack Healthcare System with AI Diagnostics
 
+## Preview
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/home.png" width="220" />
+    </td>
+    <td align="center">
+      <img src="assets/search_dr.png" width="220" />
+    </td>
+    <td align="center">
+      <img src="assets/book_apt.png" width="220" />
+    </td>
+    <td align="center">
+      <img src="assets/view apt.png" width="220" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Home Dashboard</b></td>
+    <td align="center"><b>Search Doctor</b></td>
+    <td align="center"><b>Book Appointment</b></td>
+    <td align="center"><b>View Appointment</b></td>
+  </tr>
+</table>
+
+
+
 ## Introduction
 
 This project is a full stack healthcare platform that integrates AI based medical imaging analysis directly into clinical workflows. The system enables doctors to manage appointments, conduct consultations, execute imaging diagnostics, and store validated results within structured patient records through a unified web interface.
