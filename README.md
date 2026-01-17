@@ -40,32 +40,92 @@ This project demonstrates how applied AI systems can be engineered beyond isolat
 ## Skills and Technologies Used
 
 ### Frontend
-- React
-- HTML
-- CSS
-- JavaScript
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="48"/>
+      <br/>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="48"/>
+      <br/>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="48"/>
+      <br/>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48"/>
+      <br/>JavaScript
+    </td>
+  </tr>
+</table>
+
 
 ### Backend
-- Node.js
-- Express
-- REST APIs
-- JWT based authentication and authorization
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48"/>
+      <br/>Node.js
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="48"/>
+      <br/>Express
+    </td>
+  </tr>
+</table>
+
 
 ### Artificial Intelligence and Machine Learning
-- Python
-- PyTorch
-- 3D convolutional neural networks
-- Model inference served via HTTP endpoints
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48"/>
+      <br/>Python
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" width="48"/>
+      <br/>PyTorch
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="48"/>
+      <br/>PyTest
+    </td>
+  </tr>
+</table>
+
 
 ### Data and Storage
-- Relational database for users, appointments, and medical records
-- Object storage for medical imaging data and segmentation outputs
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="48"/>
+      <br/>MongoDB
+    </td>
+  </tr>
+</table>
+
 
 ### DevOps and Tooling
-- Docker
-- Git
-- Postman
-- Cloud ready deployment architecture
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48"/>
+      <br/>Docker
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48"/>
+      <br/>GitHub
+    </td>
+  </tr>
+</table>
+
 
 ---
 
