@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" aria-hidden="true">
+  <path fill="#ffffff" d="
+    M50 2
+    C56 26 74 44 98 50
+    C74 56 56 74 50 98
+    C44 74 26 56 2 50
+    C26 44 44 26 50 2
+    Z"/>
+</svg>

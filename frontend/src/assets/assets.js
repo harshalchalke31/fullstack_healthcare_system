@@ -12,12 +12,18 @@ import logo from './logo.png'
 import poster from './poster.png'
 import user1 from './user1.png'
 import dropdown_icon from './dropdown_icon.svg'
+import group_profiles from './group_profiles.png'
+import arrow from './arrow_icon.svg'
+import ai_logo from './ai_logo.svg'
 
 export const assets ={
     logo, 
     poster,
     user1,
     dropdown_icon,
+    group_profiles,
+    arrow,
+    ai_logo,
     
 
 }

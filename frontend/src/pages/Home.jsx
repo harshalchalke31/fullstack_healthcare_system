@@ -1,9 +1,10 @@
 import React from 'react'
+import Header from '../components/Header'
 
 const Home = () => {
   return (
-    <div className='text-green-700 border-l-amber-500'>
-      You are currently visiting HomePage.
+    <div>
+        <Header />
     </div>
   )
 }
