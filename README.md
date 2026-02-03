@@ -17,7 +17,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/harshalchalke31/harshalchalke31">
+      <a href="https://github.com/harshalchalke31">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
