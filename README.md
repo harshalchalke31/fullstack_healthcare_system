@@ -1,29 +1,90 @@
 # Full Stack Healthcare System with AI Diagnostics
+<div style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://harshalchalke31.github.io/fullstack_healthcare_system/" style="text-decoration: none;">
+    <span
+      style="
+        display: inline-block;
+        padding: 8px 18px;
+        border-radius: 9999px;
+        background: #000;
+        color: #fff;
+        font-weight: 600;
+        transition: all 0.2s ease;
+      "
+      onmouseover="this.style.background='#222'"
+      onmouseout="this.style.background='#000'">
+      Project
+    </span>
+  </a>
+
+  <a href="https://harshalchalke31.github.io/harshalchalke31/" style="text-decoration: none;">
+    <span
+      style="
+        display: inline-block;
+        padding: 8px 18px;
+        border-radius: 9999px;
+        background: #000;
+        color: #fff;
+        font-weight: 600;
+        transition: all 0.2s ease;
+      "
+      onmouseover="this.style.background='#222'"
+      onmouseout="this.style.background='#000'">
+      Portfolio
+    </span>
+  </a>
+
+  <a href="https://www.linkedin.com/in/harshalchalke31/" style="text-decoration: none;">
+    <span
+      style="
+        display: inline-block;
+        padding: 8px 18px;
+        border-radius: 9999px;
+        background: #000;
+        color: #fff;
+        font-weight: 600;
+        transition: all 0.2s ease;
+      "
+      onmouseover="this.style.background='#222'"
+      onmouseout="this.style.background='#000'">
+      LinkedIn
+    </span>
+  </a>
+
+  <a href="https://github.com/harshalchalke31/harshalchalke31" style="text-decoration: none;">
+    <span
+      style="
+        display: inline-block;
+        padding: 8px 18px;
+        border-radius: 9999px;
+        background: #000;
+        color: #fff;
+        font-weight: 600;
+        transition: all 0.2s ease;
+      "
+      onmouseover="this.style.background='#222'"
+      onmouseout="this.style.background='#000'">
+      Github
+    </span>
+  </a>
+</div>
+
 
 ## Preview
 
 <table>
   <tr>
-    <td align="center">
-      <img src="assets/home.png" width="220" />
-    </td>
-    <td align="center">
-      <img src="assets/search_dr.png" width="220" />
-    </td>
-    <td align="center">
-      <img src="assets/book_apt.png" width="220" />
-    </td>
-    <td align="center">
-      <img src="assets/view apt.png" width="220" />
-    </td>
+    <td><img src="assets/header.png" width="200"/></td>
+    <td><img src="assets/speciality.png" width="200"/></td>
+    <td><img src="assets/doctors.png" width="200"/></td>
   </tr>
   <tr>
-    <td align="center"><b>Home Dashboard</b></td>
-    <td align="center"><b>Search Doctor</b></td>
-    <td align="center"><b>Book Appointment</b></td>
-    <td align="center"><b>View Appointment</b></td>
+    <td><img src="assets/banner.png" width="200"/></td>
+    <td><img src="assets/footer.png" width="200"/></td>
+    <td></td>
   </tr>
 </table>
+
 
 
 
