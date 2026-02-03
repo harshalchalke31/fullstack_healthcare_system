@@ -1,73 +1,29 @@
 # Full Stack Healthcare System with AI Diagnostics
-<div style="display: flex; gap: 12px; align-items: center;">
-  <a href="https://harshalchalke31.github.io/fullstack_healthcare_system/" style="text-decoration: none;">
-    <span
-      style="
-        display: inline-block;
-        padding: 8px 18px;
-        border-radius: 9999px;
-        background: #000;
-        color: #fff;
-        font-weight: 600;
-        transition: all 0.2s ease;
-      "
-      onmouseover="this.style.background='#222'"
-      onmouseout="this.style.background='#000'">
-      Project
-    </span>
-  </a>
+<table>
+  <tr>
+    <td>
+      <a href="https://harshalchalke31.github.io/fullstack_healthcare_system/">
+        <img alt="Project" src="https://img.shields.io/badge/Project-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://harshalchalke31.github.io/harshalchalke31/">
+        <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/harshalchalke31/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/harshalchalke31/harshalchalke31">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <a href="https://harshalchalke31.github.io/harshalchalke31/" style="text-decoration: none;">
-    <span
-      style="
-        display: inline-block;
-        padding: 8px 18px;
-        border-radius: 9999px;
-        background: #000;
-        color: #fff;
-        font-weight: 600;
-        transition: all 0.2s ease;
-      "
-      onmouseover="this.style.background='#222'"
-      onmouseout="this.style.background='#000'">
-      Portfolio
-    </span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/harshalchalke31/" style="text-decoration: none;">
-    <span
-      style="
-        display: inline-block;
-        padding: 8px 18px;
-        border-radius: 9999px;
-        background: #000;
-        color: #fff;
-        font-weight: 600;
-        transition: all 0.2s ease;
-      "
-      onmouseover="this.style.background='#222'"
-      onmouseout="this.style.background='#000'">
-      LinkedIn
-    </span>
-  </a>
-
-  <a href="https://github.com/harshalchalke31/harshalchalke31" style="text-decoration: none;">
-    <span
-      style="
-        display: inline-block;
-        padding: 8px 18px;
-        border-radius: 9999px;
-        background: #000;
-        color: #fff;
-        font-weight: 600;
-        transition: all 0.2s ease;
-      "
-      onmouseover="this.style.background='#222'"
-      onmouseout="this.style.background='#000'">
-      Github
-    </span>
-  </a>
-</div>
 
 
 ## Preview
