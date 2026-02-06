@@ -12,7 +12,7 @@ const NavBar = () => {
     const [showMenu, setShowMenu] = useState(false)
   return (
     <div className='flex items-center justify-between text-sm py-4 mb-5 border-b border-b-gray-500'>
-        <img className='w-55 cursor-pointer' src={assets.logo} alt=''/>
+        <img onClick={() => navigate('/')} className='w-55 cursor-pointer hover:scale-110 transition-all duration-300' src={assets.logo} alt=''/>
         <ul className='hidden md:flex items-center gap-8 px-6 py-3 bg-primary/10 rounded-full font-medium'>
             <li>
                 <NavLink to='/' className={navItemClass}>Home</NavLink>

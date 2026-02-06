@@ -26,11 +26,34 @@ import portfolio_icon from './portfolio_icon.svg'
 import linkedin_icon from'./linkedin_icon.svg'
 import github_icon from './github_icon.svg'
 import gmail_icon from './gmail_icon.svg'
+import veriifed_icon from './verified_icon.png'
+import info from './info.svg'
+
+
+export const assets ={
+    logo, 
+    poster,
+    user1,
+    dropdown_icon,
+    group_profiles,
+    arrow,
+    ai_logo,
+    banner,
+    portfolio_icon,
+    linkedin_icon,
+    github_icon,
+    gmail_icon,
+    veriifed_icon,
+    info,    
+    
+    
+
+}
 
 export const specialityData =[
     {
         speciality: 'General Physician',
-        path: 'general physician',
+        path: 'General Physician',
         image: general_physician
     },
     {
@@ -62,31 +85,14 @@ export const specialityData =[
 
 ]
 
-export const assets ={
-    logo, 
-    poster,
-    user1,
-    dropdown_icon,
-    group_profiles,
-    arrow,
-    ai_logo,
-    banner,
-    portfolio_icon,
-    linkedin_icon,
-    github_icon,
-    gmail_icon,
-    
-    
-    
 
-}
 
 export const doctors = [
   {
     _id: 'doc1',
     name: 'Dr. Amir Khalid',
     image: doc1,
-    speciality: 'General physician',
+    speciality: 'General Physician',
     degree: 'MD (Internal Medicine)',
     experience: '9 Years',
     about: 'Dr. Khalid delivers comprehensive primary care with a strong emphasis on preventive medicine, chronic disease management, and patient education. He believes in proactive health planning and long-term doctor–patient relationships.',
@@ -176,7 +182,7 @@ export const doctors = [
     _id: 'doc7',
     name: 'Dr. Priya Nair',
     image: doc7,
-    speciality: 'General physician',
+    speciality: 'General Physician',
     degree: 'MD (Family Medicine)',
     experience: '7 Years',
     about: 'Dr. Nair offers comprehensive family medicine services, managing acute illnesses and chronic conditions while emphasizing preventive screenings and patient education.',
@@ -206,7 +212,7 @@ export const doctors = [
     _id: 'doc9',
     name: 'Dr. Hannah Cole',
     image: doc9,
-    speciality: 'General physician',
+    speciality: 'General Physician',
     degree: 'MD (Internal Medicine)',
     experience: '8 Years',
     about: 'Dr. Cole focuses on adult primary care, preventive screenings, and lifestyle-based management of common conditions such as hypertension and diabetes.',

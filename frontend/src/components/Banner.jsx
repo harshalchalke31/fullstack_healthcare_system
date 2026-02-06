@@ -14,7 +14,7 @@ const Banner = () => {
           <p>Your Health is Our Goal.</p>
           <p>Get AI Insights.</p>
         </div>
-        <button onclick={() => navigate('/login')} className='self-end w-fit bg-white text-gray-700 font-medium rounded-full text-sm px-8 py-3 sm:text-base mt-6 hover:scale-105 transition-all duration-300'>Create Account</button>
+        <button onClick={() => navigate('/login')} className='self-end w-fit bg-white text-gray-700 font-medium rounded-full text-sm px-8 py-3 sm:text-base mt-6 hover:scale-105 transition-all duration-300'>Create Account</button>
         <button onClick={() => {navigate('/chat'); scrollTo(0,0)}} className='text-white self-end w-fit bg-gray-800 font-medium rounded-full px-8 py-3 sm:text-base mt-6 flex gap-2  hover:scale-105 transition-all duration-300'>
           Chat <img className='w-3' src={assets.ai_logo} /></button>
       </div>

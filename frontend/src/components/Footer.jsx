@@ -8,7 +8,7 @@ const Footer = () => {
     <div className='md:mx-10'>
         <div className='flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-10 my-10 mt-40 text-sm bg-primary/10 rounded-lg px-6 my-20 py-5'>
             <div>
-                <img className='mb-5 w-70' src={assets.logo} />
+                <img onClick={() => {navigate('/'); scrollTo(0,0)}} className='mb-5 w-70 hover:scale-110 transition-all duration-300 ' src={assets.logo} />
                 <p className='w-full md:w-2/3 text-gray-600 leading-6 text-justify font-medium'>A software service that caters to both doctors and patients. Doctors can chat, call and meet patients. The doctors are
                     assisted by Top Tier AI models for Echocardiogram analysis, Brain Tumor Detection and general diagnosis. Patients get 
                     a chance to be diagnosed by Top-Tier Doctors and get real-time preliminary diagnosis powered by AI.</p>
