@@ -13,9 +13,9 @@ const RelatedDoctors = ({docId,speciality}) => {
     }
   },[doctors,speciality,docId])
   return (
-    <div className='flex flex-col items-center gap-4 my-16 md:my-10 text-gray-900 font-medium'>
+    <div className='flex flex-col gap-4 my-16 md:my-10 text-gray-900 font-medium'>
       <h1 className='text-3xl text-gray-900 font-semibold'>Related Doctors</h1>
-      <div className='w-full flex flex-wrap justify-center gap-4 pt-5 px-3 sm:px-0'>
+      <div className='w-full grid grid-cols-auto gap-4 pt-5 gap-y-6 px-3 sm:px-0'>
         {relatedDocs.slice(0,5).map((doctor)=>(
           <DoctorCard key={doctor._id} doctor={doctor} /> 
         ))}
